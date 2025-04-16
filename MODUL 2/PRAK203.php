@@ -67,13 +67,13 @@
       Dari: <br>
       <input type="radio" name="suhu1" value="°C" <?php if ($suhu1 == "°C") echo "checked"; ?> required> Celcius <br>
       <input type="radio" name="suhu1" value="°F" <?php if ($suhu1 == "°F") echo "checked"; ?>> Fahrenheit <br>
-      <input type="radio" name="suhu1" value="°R" <?php if ($suhu1 == "°Re") echo "checked"; ?>> Rheamur <br>
+      <input type="radio" name="suhu1" value="°Re" <?php if ($suhu1 == "°Re") echo "checked"; ?>> Rheamur <br>
       <input type="radio" name="suhu1" value="K" <?php if ($suhu1 == "K") echo "checked"; ?>> Kelvin <br>
       
       Ke: <br>
       <input type="radio" name="suhu2" value="°C" <?php if ($suhu2 == "°C") echo "checked"; ?> required> Celcius <br>
       <input type="radio" name="suhu2" value="°F" <?php if ($suhu2 == "°F") echo "checked"; ?>> Fahrenheit <br>
-      <input type="radio" name="suhu2" value="°R" <?php if ($suhu2 == "°Re") echo "checked"; ?>> Rheamur <br>
+      <input type="radio" name="suhu2" value="°Re" <?php if ($suhu2 == "°Re") echo "checked"; ?>> Rheamur <br>
       <input type="radio" name="suhu2" value="K" <?php if ($suhu2 == "K") echo "checked"; ?>> Kelvin <br>
       
       <input type="submit" name="konversi" value="Konversi"><br><br>
