@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Jumlah Bintang</title> 
+  </head>  
     
     <?php
     if (isset($_POST['cetak'])) {
