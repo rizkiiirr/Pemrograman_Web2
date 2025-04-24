@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Bintang</title> 
+  </head>  
     
     <?php
     
